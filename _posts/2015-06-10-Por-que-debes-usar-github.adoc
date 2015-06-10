@@ -1,0 +1,19 @@
+= Por qué debes usar github? 
+
+Antes de responder esta pregunta es necesario hablar un poco sobre git,  y porque se ha vuelto tan popular prácticamente reemplazando a otras herramientas para el control de versiones. 
+
+# Qué es git? 
+
+Git es una herramiente de control de versiones desarrollada por Linus Torvalds (si,  el padre de linux).  Esta herramienta fue creada con la idea de ayudar a la gestión del código fuente del kernel de linux,  el cual como todos sabemos tiene montones de lineas de código y es desarrollado por una gran comunidad, en  donde poder versionar y mantener los fuentes sería un completo caos si no fuera gracias a git. 
+
+Git se caracteriza por ser un control de versiones distribuido, en dónde cada copia local es un branch (rama de desarrollo),  con lo cual el realizar merge y mantener de forma ordenada los distinos branch se vuelve algo natural, además de ser muy eficiente cambiando entre ramas y realizando merge entre las mismas. 
+
+Personalmente una de las cosas que más me gusta de Git es su poderosa herramienta de linea de comandos, puede que existan algunas GUI o plugins para ños diferentes ides,  pero ninguno posee la flexibilidad de los comandos. 
+
+# Entonces, ahora que sabemos un poco de Git,  por qué Github? 
+
+Así como siempre han existido los curriculum, luego en areas especificas de diseño además del curriculum se solicita el portafolio, los desarrolladores necesitábamos algún portafolio en donde se pueda apreciar nuestro hermoso código (aunque no todo es hermoso), algo bastante lógico teniendo en cuenta que el solo hecho de conocer la experiencia de una persona no nos permite saber que tal es su trabajo actual y como ha mejorado en el tiempo. 
+
+Pero más importante que ser el portafolio de los creadores de software, es la oportunidad de devolver a la comunidad algo por todo lo que nos ha dado.  Ya que todos utilizamos frameworks,  librerías o herramientas opensource, además de lo mucho que aprendemos con todo el conocimiento libre que hay en internet y por lo tanto lo mínimo que debemos hacer es devolver el favor aportando conocimiento y código que les puede ser útil a otros,  ya sea para aprender o implementar. 
+
+# Por Último
