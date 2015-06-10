@@ -25,4 +25,5 @@ La verdad no, aún queda mucho por ver de git y github, el objetivo de este post
 
 Próximamente realizaré un tutorial de git utilizando github, así que estén atentos. 
 
-Cualquier comentario es bienvenido, y recuerden: "criticar ideas, no personas".
+Cualquier comentario es bienvenido, y recuerden: "Criticar ideas, no personas". 
+
