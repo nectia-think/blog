@@ -1,4 +1,6 @@
-= Por qué debes usar github? 
+= Por qué debes usar github?
+
+:hp-tags: git, github, source control, versionado, control de versiones
 
 Antes de responder esta pregunta es necesario hablar un poco sobre git, y porque se ha vuelto tan popular prácticamente reemplazando a otras herramientas para el control de versiones. 
 
