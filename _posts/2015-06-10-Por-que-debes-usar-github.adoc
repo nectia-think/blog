@@ -2,7 +2,7 @@
 
 Antes de responder esta pregunta es necesario hablar un poco sobre git, y porque se ha vuelto tan popular prácticamente reemplazando a otras herramientas para el control de versiones. 
 
-# Qué es git? 
+== Qué es git? 
 
 Git es una herramiente de control de versiones desarrollada por Linus Torvalds (si, el padre de linux).  Esta herramienta fue creada con la idea de ayudar a la gestión del código fuente del kernel de linux, el cual como todos sabemos tiene montones de lineas de código y es desarrollado por una gran comunidad, en donde poder versionar y mantener los fuentes sería un completo caos si no fuera gracias a git. 
 
@@ -10,13 +10,13 @@ Git se caracteriza por ser un control de versiones distribuido, en dónde cada c
 
 Personalmente una de las cosas que más me gusta de Git es su poderosa herramienta de linea de comandos, puede que existan algunas GUI o plugins para los diferentes IDEs,  pero ninguno posee la flexibilidad de los comandos. 
 
-# Entonces, ahora que sabemos un poco de Git,  por qué Github? 
+== Entonces, ahora que sabemos un poco de Git,  por qué Github? 
 
 Así como siempre han existido el currículum, luego en areas especificas de diseño además del currículum se solicita el portafolio, los desarrolladores necesitábamos alguna forma de dar a conocer nuestro hermoso código (aunque no todo es hermoso), algo bastante lógico teniendo en cuenta que el solo hecho de conocer la experiencia de una persona no nos permite saber que tal es su trabajo actual y como ha mejorado en el tiempo. 
 
 Pero más importante que ser el portafolio de los creadores de software, es la oportunidad de devolver a la comunidad algo por todo lo que nos ha dado. Ya que todos utilizamos frameworks, librerías o herramientas opensource, además de lo mucho que aprendemos con todo el conocimiento libre que hay en internet y por lo tanto, lo mínimo que debemos hacer es devolver el favor aportando conocimiento y código que les puede ser útil a otros, ya sea para aprender o implementar. Por lo que el aportar con código opensource no es regalar nuestro trabajo (como muchos piensan), si no que es pagar por lo que nos han dado. 
 
-# Y eso es todo? 
+== Y eso es todo? 
 
 La verdad no, aún queda mucho por ver de git y github, el objetivo de este post es motivarte a realizar aportes, no es necesario subir solo código sublime y 100% libre de errores ya que en github se aceptan las versiones 0.0.1, beta, alfa, etc. Así que si estás realizando una prueba de concepto subela a github, si estás desarrollando un componente que puede ser implementado en otras aplicaciones subelo a github, si quieres tener un blog o sitio como este hazlo en github y si trabajas para una empresa obligala a tener una cuenta en github.
 
